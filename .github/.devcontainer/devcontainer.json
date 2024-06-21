@@ -6,7 +6,7 @@
       "downgradeGhcToSupportHls": true,
       "adjustBash": true,
       "ghcVersion": "9.4.8",
-      "cabalVersion": "3.10.2.1",
+      "cabalVersion": "3.10.3.0",
       "globalPackages": ""
     }
   },
